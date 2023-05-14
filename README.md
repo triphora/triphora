@@ -1,21 +1,25 @@
-[![Codeberg](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/available/codeberg_64h.png)](https://codeberg.org/orchid) [![GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/available/github_64h.png)](https://github.com/triphora)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/user/triphora)
 
 Hi! We're the [Orchid system](https://dash.pluralkit.me/profile/s/oopmz?tab=members), artists formerly known as wafflecoffee and Emmaffle. Generally speaking, we tend to cause problems, despite being well-intentioned (most of the time).
 
-You might know us for having [a whole spiel of roles](TIMELINE.md) in helping run [Modrinth](https://modrinth.com) and formerly [QuiltMC](https://quiltmc.org), both [since late 2021 or so](TIMELINE.md). Minecraft modding (and peripheral projects) is what most of our free time tends to be devoted to. That's how we learned Java :coffee: and Rust :crab:.
+You might know us for having [a whole spiel of roles](TIMELINE.md) in helping run [Modrinth](https://modrinth.com) and formerly [QuiltMC](https://quiltmc.org). Minecraft modding (and peripheral projects) is what most of our free time tends to be devoted to. 
 
 We love contributing code to open source projects! If you've ever played a modded Minecraft instance on 1.19+, you've run a bit of code written by us!
 
-Μιλάμε ελληνικά σ' επίπεδο [Β1][CEFRL], αλλά αγγλικά είναι η μητρική μας γλώσσα.
-
 [![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=triphora)](https://last.fm/user/triphora)
 
-### Code preferences
+### Random anecdotes
 
 - Tend to prefer [Zlib license](https://spdx.org/licenses/Zlib.html)
+- Minecraft modding is how we how we learned Java :coffee:, Rust :crab:, and Groovy :star:.
+- Μιλάμε ελληνικά, αλλά αγγλικά είναι η μητρική μας γλώσσα.
+
+### Java/Groovy code preferences
+
 - Formerly used 2-space indentation, but now using tabs. [Learn why.](https://twitter.com/Rich_Harris/status/1541761871585464323)
 - One-line `if`, `for`, and `while` statements when feasible
 - Annotations go on the same line for parameters and fields
+- :star:: Declosureify and deparenthesize all the things!
 
 ### Devices
 
