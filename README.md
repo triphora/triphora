@@ -2,7 +2,7 @@
 
 Greetings! I'm Emma Alexia Triphora, also known online as `triphora`, and formerly `wafflecoffee` and `Emmaffle`. Generally speaking, I tend to cause problems, despite being well-intentioned (most of the time).
 
-You might know me as the Growth Manager over at [Modrinth](https://modrinth.com), where I've held [various roles](TIMELINE.md) over the past few years. I also used to volunteer in various communities, such as [QuiltMC](https://quiltmc.org) and [Prism Launcher](https://prismlauncher.org).
+You might know me as the Growth Manager over at [Modrinth](https://modrinth.com), where I've held [various roles](TIMELINE.md) over the past few years. In the past, I've also volunteered in various other communities, such as [QuiltMC](https://quiltmc.org) and [Prism Launcher](https://prismlauncher.org).
 
 Minecraft modding is what most of my free time tends to be devoted to. If you've ever played a modded Minecraft instance on 1.19 or above, whether it be Forge, Fabric, or Quilt, you've run a bit of code written by me.
 
