@@ -1,7 +1,0 @@
-*.toml linguist-detectable=true
-*.json linguist-detectable=true
-*.xml linguist-detectable=true
-*.toml linguist-detectable=true
-*.json5 linguist-detectable=true
-*.txt linguist-detectable=true
-*.gradle linguist-detectable=true
